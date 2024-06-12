@@ -2,7 +2,7 @@
 ## M.Sc. in Physics of Data @ UniPd
 
 ### Hi there! Welcome to my GitHub profile!
-Here you can find some exercises and projects developed during my studies
+I'm a 25 years old guy, currently employeed as a research fellow at the university of Padova.
 
 ### Basic informations:
 I was born
@@ -14,10 +14,10 @@ Currently living in
 
 ### Briefly:
 
-Studying Physics of Data. Graduated in Physics @ UniFe in 2021. 
+Graduated in Physics of Data @ UniPd in December 2023. Graduated in Physics @ UniFe in 2021. 
 
 Strong interest and skills in physics (in particular in high energy physics) and data science.
-Eye for detail.
+Eye for detail. 
 
 ### 🕵🏻‍♂️ Contact info
 * E-mail: wpitcap@gmail.com
